@@ -445,10 +445,7 @@ input, select, textarea {
 
 		select option {
 			color: #ffffff;
-			background-image: url("../../images/IMG_6241.jpg");
-			background-size: cover;
-			background-position: center, center;
-			background-repeat: no-repeat
+			background: #1b1f22;
 		}
 
 		select:focus::-ms-value {
@@ -539,10 +536,7 @@ input, select, textarea {
 		input[type="radio"]:checked + label:before {
 			background: #ffffff !important;
 			border-color: #ffffff !important;
-			background-image: url("../../images/IMG_6241.jpg");
-			background-size: cover;
-			background-position: center, center;
-			background-repeat: no-repeat
+			color: #1b1f22;
 			content: '\f00c';
 		}
 
@@ -1088,10 +1082,7 @@ input, select, textarea {
 		button.primary,
 		.button.primary {
 			background-color: #ffffff;
-			background-image: url("../../images/IMG_6241.jpg");
-			background-size: cover;
-			background-position: center, center;
-			background-repeat: no-repeat
+			color: #1b1f22 !important;
 			font-weight: 600;
 		}
 
