@@ -1255,13 +1255,9 @@ input, select, textarea {
 		-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out, opacity 0.325s ease-in-out;
 		-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out, opacity 0.325s ease-in-out;
 		transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out, opacity 0.325s ease-in-out;
-		background-image: url("../../images/IMG_6241.JPG");
-		background-size: cover;
-		background-position: center, center;
-		background-repeat: no-repeat
 		max-width: 100%;
 		text-align: center;
-		padding: 0.5rem 2.5rem 0.5rem 2.5rem ;
+		padding: 1.5rem 2.5rem 0.5rem 3rem ;
 		position: relative;
 		width: 40rem;
 		max-width: 100%;
