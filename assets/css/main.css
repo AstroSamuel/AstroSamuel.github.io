@@ -911,8 +911,9 @@ input, select, textarea {
 			}
 
 			ul.icons li a {
+				background: #1b1f22;
 				border-radius: 100%;
-				box-shadow: inset 3px -2px 0 2.5px #ffffff;
+				box-shadow: inset 1px -1px 0 1.5px #ffffff;
 				display: inline-block;
 				height: 2.25rem;
 				line-height: 2.25rem;
